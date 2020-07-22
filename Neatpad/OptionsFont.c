@@ -19,7 +19,7 @@
 #include "resource.h"
 
 #include <uxtheme.h>
-#include <tmschema.h>
+#include <vssym32.h>
 
 COLORREF LightenRGB(COLORREF rgbColor, int amt);
 

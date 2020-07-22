@@ -828,7 +828,7 @@ void DrawCheckedRect(HDC hdc, RECT *rect, COLORREF fg, COLORREF bg)
 }
 
 #include <uxtheme.h>
-#include <tmschema.h>
+#include <vssym32.h>
 
 
 //

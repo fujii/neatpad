@@ -41,8 +41,6 @@ TCHAR		*g_szEditMode[] = { _T("READ"), _T("INS"), _T("OVR") };
 // support 'satellite' resource modules
 HINSTANCE	g_hResourceModule;
 
-#pragma comment(linker, "/OPT:NOWIN98")
-
 //
 //	Set the main window filename
 //
